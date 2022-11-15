@@ -9,12 +9,13 @@ local Whitelisted = {
     3561949744, -- unkown
     1690810964, --  unknown
     2278271833, -- unknown
-    3777972202, -- crystal central (owner)
+    3777972202, -- crystal central ( owner ) 
     1044195156, -- gavin (admin)
     14361338, -- putrid (homie)
     3065382921, -- JLNN#5549
     2902308308, -- POP#1139
     1057210388, -- Angell#0017
-    3684899316 -- brock#5414
+    3684899316, -- brock#5414
+    3737831068 -- crystal central ( owner )
 }
 return Whitelisted
