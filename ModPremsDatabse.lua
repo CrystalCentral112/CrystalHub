@@ -14,6 +14,7 @@ local Whitelisted = {
     14361338, -- putrid (homie)
     3065382921, -- JLNN#5549
     2902308308, -- POP#1139
-    1057210388 -- Angell#0017
+    1057210388, -- Angell#0017
+    3684899316 -- brock#5414
 }
 return Whitelisted
