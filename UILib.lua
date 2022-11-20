@@ -8,7 +8,7 @@ end
 local dark_UI = Instance.new("ScreenGui")
 dark_UI.Name = "dark_UI"
 dark_UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-dark_UI.Parent = gethui()
+dark_UI.Parent = game.CoreGui
 
 local Library = {}
 local TweenService = game:GetService("TweenService")
