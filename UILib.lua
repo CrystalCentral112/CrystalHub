@@ -6,7 +6,7 @@ for _,v in pairs(game.CoreGui:GetChildren()) do
 end
 
 local dark_UI = Instance.new("ScreenGui")
-dark_UI.Name = syn.protect_gui(dark_UI)
+dark_UI.Name = syn.protect_gui()
 dark_UI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 dark_UI.Parent = game.CoreGui
 
